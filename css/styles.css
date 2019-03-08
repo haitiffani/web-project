@@ -32,6 +32,7 @@ a {
 hr {
   color: #EAF6F6;
   border: .5rem dotted;
+  border-bottom: none;
   width: 5%;
   margin: 100px auto;
 }
