@@ -27,6 +27,11 @@ h3 {
 
 a {
   color:  #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+  color: #EAF6F6;
 }
 
 hr {
